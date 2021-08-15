@@ -1,6 +1,9 @@
 👋 Hi, I’m @mva-one, a 21-year-old student of computer science in Germany 🇩🇪
+
 👀 interested in programming (obviously), electronics, DIY
+
 🌱 currently learning C++, Node.JS
+
 📫 How to reach me: marcell@mva-one.de
 
 <!---
